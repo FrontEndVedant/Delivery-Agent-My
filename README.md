@@ -122,12 +122,19 @@ The agent supports six planning strategies:
 ### File Structure
 
 ├── environment.py
+
 ├── search_algorithms.py
+
 ├── delivery_agent.py
+
 ├── cli.py
+
 ├── demo.py
+
 ├── test_system.py
+
 ├── requirements.txt
+
 └── README.md
 
 
