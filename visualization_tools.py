@@ -1,3 +1,4 @@
+# Adapted and modified by Vedant Patil
 """
 Visualization tools for the autonomous delivery agent system.
 Provides interactive and static visualizations of agent behavior, pathfinding, and dynamic replanning.

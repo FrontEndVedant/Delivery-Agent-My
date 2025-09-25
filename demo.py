@@ -1,3 +1,4 @@
+# Adapted and modified by Vedant Patil
 """
 Demonstration script showing the autonomous delivery agent system in action.
 Shows dynamic replanning when obstacles appear and agent behavior.

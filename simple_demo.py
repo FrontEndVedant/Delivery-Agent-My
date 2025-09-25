@@ -1,3 +1,4 @@
+# Adapted and modified by Vedant Patil
 """
 Simple demonstration of the autonomous delivery agent system.
 Shows core functionality without complex dynamic replanning.

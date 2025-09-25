@@ -1,3 +1,4 @@
+# Adapted and modified by Vedant Patil
 """
 Advanced replanning strategies for dynamic environments.
 Handles various scenarios where the agent needs to adapt to changing conditions.

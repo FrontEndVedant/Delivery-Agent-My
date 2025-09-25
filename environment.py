@@ -1,3 +1,4 @@
+# Adapted and modified by Vedant Patil
 """
 Environment model for autonomous delivery agent in 2D grid city.
 Handles static obstacles, terrain costs, and dynamic moving obstacles.

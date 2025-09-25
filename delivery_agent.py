@@ -1,5 +1,8 @@
 # Adapted and modified by Vedant Patil
+<<<<<<< HEAD
 
+=======
+>>>>>>> 30527ab (Added author comment to all Python files)
 """
 Autonomous delivery agent that navigates a 2D grid city to deliver packages.
 Supports different planning strategies and dynamic replanning.

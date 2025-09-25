@@ -1,3 +1,4 @@
+# Adapted and modified by Vedant Patil
 """
 Performance optimization utilities for the autonomous delivery agent system.
 Provides caching, memory management, and algorithm optimizations for large-scale scenarios.

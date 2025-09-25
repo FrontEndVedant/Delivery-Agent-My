@@ -1,3 +1,4 @@
+# Adapted and modified by Vedant Patil
 """
 Search algorithms for autonomous delivery agent.
 Implements BFS, Uniform-cost search, A*, and local search methods.
